@@ -1,5 +1,8 @@
 ##### Deployed smartcontract address: CCCN37K3ZH772DDFF5EJMZ4Z7BJHH6HFKL6HJWUOXLUJUIHFDZGNBVMS
 
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/72409564-702e-4511-accd-93e7e174702b">
+
+
 # Decentralized Voting for DAOs
 
 ## Project Title
